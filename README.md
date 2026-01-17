@@ -13,4 +13,5 @@ I am starting my 30-day Java coding challenge to build strong programming fundam
 - Focus on logic, not perfection
 
 ## Progress
-- Day 1 
+- Day 1
+- Day 2 
