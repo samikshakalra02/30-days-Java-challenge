@@ -10,7 +10,7 @@ public class Scaninput
       System.out.println("Enter age");
       int age=sc.nextInt();
       System.out.println("Enter marks");
-      float marks=sc.nextFloat();
+      float marks=sc.nextFloat(); 
       System.out.println("User Deatils");
       System.out.println("Name: "+name);
       System.out.println("Age: "+age);
