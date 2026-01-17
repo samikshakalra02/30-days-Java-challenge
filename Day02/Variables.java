@@ -13,4 +13,4 @@ public class Variables
       System.out.println("Age: "+age);
       System.out.println("Marks: "+marks);
     }
-  }
+  } 
