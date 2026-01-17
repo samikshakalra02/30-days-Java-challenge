@@ -14,4 +14,5 @@ I am starting my 30-day Java coding challenge to build strong programming fundam
 
 ## Progress
 - Day 1
-- Day 2 
+- Day 2
+- Day 3
