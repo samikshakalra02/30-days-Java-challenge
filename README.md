@@ -13,26 +13,32 @@ I am starting my 30-day Java coding challenge to build strong programming fundam
 - Focus on logic, not perfection
 
 ## Progress
-- Day 1 – Hello World in Java
+# Day 1 – Hello World in Java
 What I learned:
 - Java program structure
 - main() method
 - Printing output using System.out.println()
 
-- Day 2 – Check Even or Odd
+# Day 2 – Introduction to Variables
+What I learned:
+- Declaring variables in Java
+- Different data types (int, float, char, String)
+- Assigning and using variable value
+  
+# Day 3 – Scanner Input with Different Variables
+What I learned:
+- Taking input using Scanner class
+- Reading different data types (int, String)
+- Storing input in multiple variables
+- Printing user input
+
+# Day 4 – Check Even or Odd
 What I learned:
 - Taking input from user
 - if–else conditions
 - Modulus operator (%)
   
-- Day 3 – Palindrome Number
-What I learned:
-- while loop
-- Reversing a number
-- Comparing original and reversed value
-  
-- Day 4
--Day 5 – Reverse a Number
+# Day 5 – Reverse a Number
 What I learned:
 - while loop
 - modulus operator (%)
