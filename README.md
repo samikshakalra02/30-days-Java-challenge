@@ -43,4 +43,17 @@ What I learned:
 - while loop
 - modulus operator (%)
 - reversing digits logic
+  
+  # Day 6-Armstrong Number
+- Understood **Armstrong numbers**
+- Practiced **digit extraction & loops**
+- Applied **conditions**
+
+  # Day 7-Palindrome String
+- Understood the concept of **palindrome strings**
+- Learned how to **reverse a string using loops**
+- Used **String methods** like `length()` and `charAt()`
+- Practiced **conditional statements (if-else)**
+- Improved understanding of **user input using Scanner**
+- Learned to compare strings using `equalsIgnoreCase()`
 
